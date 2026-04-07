@@ -68,6 +68,65 @@ Berikut penjelasan singkat terkai dengan fungsi bagian pada papan Arduino:
 
 Tanpa melakukan konfigurasi apapun, begitu sebuah papan Arduino dikeluarkan dari kotak pembungkusnya ia dapat langsung disambungkan ke sebuah komputer melalui kabel USB. Selain berfungsi sebagai penghubung untuk pertukaran data, kabel USB ini juga akan mengalirkan arus DC 5 Volt kepada papan Arduino sehingga praktis tidak diperlukan sumber daya dari luar. Saat mendapat suplai daya, lampu LED indikator daya pada papan Arduino akan menyala menandakan bahwa ia siap bekerja.
 
+<h2>💡 Laporan Praktikum</h2>
+<p>Setiap praktikum yang telah selesai dilakukan hasilnya dikumpulkan dalam bentuk laporan dan Kode yang digunakan melalui <a href="https://eldiru.unsoed.ac.id/">eLdiru</a> (ruang unggah disediakan dimasing-masing pertemuan) dengan format sebagai berikut:</p>
+<p>Nama file laporan: [kode mata kuliah]_[modul ke]_[NIM] contoh TK2440005_01_H1H022001</p>
+
+<p>Dikirimkan dalam bentuk attachment dengan format .pdf bentuk laporan seperti template berikut ini.</p>
+
+<table border="1" align="center" width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <h2>
+        <a href="https://docs.google.com/document/d/17EwpGksKAiaKBgLu6zKR_RNZT5vykKdZ/edit?usp=sharing&ouid=114215355724116733257&rtpof=true&sd=true">
+          TEMPLATE LAPORAN PRAKTIKUM
+        </a>
+      </h2>
+    </td>
+  </tr>
+</table>
+
+<h2>📓 Buku Catatan Praktikum</h2>
+<p>Buku catatan praktikum adalah catatan yang digunakan dalam eksperimen langsung di laboratorium yang memuat aktivitas selama praktikum berlangsung berisi rangkaian, kode dan hasil yang bertujuan sebagai dokumentasi percobaan.</p>
+
+<p>Petunjuk pengisian Buku Catatan Praktikum adalah sebagai berikut:</p>
+<ul>
+  <li>Gunakan buku catatan ini hanya untuk keperluan lab</li>
+  <li>Tulis identitas sesuai dengan format</li>
+  <li>Mahasiswa mencatat hasil dan jawaban pertanyaan praktikum dengan pena bertinta, bukan pensil</li>
+  <li>Bila terjadi terjadi kesalahan, coretlah bagian yang salah. Jangan menggunakan penghapus atau menutup (tip-ex) catatan yang salah</li>
+  <li>Buat catatan berkesinambungan, jangan meninggalkan ruang atau halaman kosong</li>
+  <li>Tutup bagian akhir catatan dengan memberikan garis</li>
+  <li>Bila catatan terakhir satu modul hanya mengisi beberapa baris teratas saja, lanjutkan catatan berikutnya pada halaman yang sama</li>
+  <li>Tidak diperkenankan untuk merobek buku catatan praktikum</li>
+  <li>Tandatangani dan beri tanggal setiap halaman yang memiliki data</li>
+  <li>Adapun hal yang perlu dicatat saat proses praktikum meliputi:</li>
+  <ul>
+    <li>Tujuan praktikum berdasarkan pemahaman praktikan setelah melakukan proses praktikum</li>
+    <li>Gambar rangkaian setiap percobaan</li>
+    <li>Penjelasan program yang digunakan</li>
+    <li>Hasil pengamatan dan jawaban pertanyaan praktikum</li>
+    <li>Catatan Kendala</li>
+  </ul>
+  <li>Catat semua kejadian, baik positif ataupun negatif, yang terjadi di lab</li>
+  <li>Catat tidak hanya data, namun juga permasalahan yang ditemui pada alat yang digunakan, pengesetan peralatan, teknik pengukuran, atau prosedur penting yang disarankan manual lab</li>
+  <li>Saat membuat grafik, beri label setiap sumbu grafik dengan nama variabel, satuan, origin (titik nol), dan skala.</li>
+  <li>Asisten menandatangani dan memberi tanggal sebelum sesi lab selesai</li>
+  <li>Tanggung jawab bersama antara asisten dan mahasiswa untuk memastikan data yang diambil sesuai dengan harapan sebelum mahasiswa meninggalkan setiap sesi lab</li>
+</ul>
+
+<table border="1" align="center" width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <h2>
+        <a href="https://docs.google.com/document/d/1H7cjsJ31MNUCidYrXR4XzcVPMSk_7Lf-/edit?usp=sharing&ouid=114215355724116733257&rtpof=true&sd=true">
+          TEMPLATE BUKU CATATAN PRAKTIKUM 
+        </a>
+      </h2>
+    </td>
+  </tr>
+</table>
+
 ## ⛓️ Acknowledgments
 Diagram, animasi, gambar, dan video dibuat menggunakan <a href="https://www.tinkercad.com/">Tinkercad Circuits</a>, <a href="https://fritzing.org/">Fritzing</a> dan <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint">Microsoft Power Point</a>
 
